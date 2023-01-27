@@ -17,7 +17,7 @@ php artisan db:seed
 php artisan serve
 ```
 The api will now be running
-Next navigate to the Frontend folder and run the following
+Next navigate to the app folder and run the following
 
 ```bash
 npm install
