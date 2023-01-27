@@ -9,7 +9,9 @@ I hope it mets your expectations even though I wish I had time to do more. I hav
 Clone repo to you local
 Open terminal and navigate to the api folder
 
-Once there run
+First edit the .env file to allow database access.
+
+Then run
 
 ```bash
 php artisan migrate
